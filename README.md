@@ -10,8 +10,8 @@ Para publicar ramas en github >git switch main
 				  >git merge Nombre_de_la_rama
 				   >git push origin main
 
-Para editar el README en el cmd (WINDOWS) se coloca >notepad README.md
-Para editar el README en la terminal (MacOS) se coloca $vim
+Para editar el README o HTML en el cmd (WINDOWS) se coloca >notepad README.md
+Para editar el README o HTML en la terminal (MacOS) se coloca $vim
 
 Para crear un HTML en cmd se coloca >echo ^<html^>^<body^>^<h1^>New World!^</h1^>^</body^>^</html^> > Nombre.html
 Se guarda con >git add Nombre.html 
