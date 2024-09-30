@@ -8,7 +8,7 @@ Para publicar ramas en github >git switch main
 				>git branch -v
 				 >git status
 				  >git merge Nombre_de_la_rama
-				   >git push origin Nombre_de_la_rama
+				   >git push origin main
 
 Para editar el README en el cmd (WINDOWS) se coloca >notepad README.md
 Para editar el README en la terminal (MacOS) se coloca $vim
